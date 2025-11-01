@@ -36,6 +36,19 @@ This project addresses that limitation by introducing a **PLS-SEM Simulator** th
 
 ---
 
+## 🧩 Model Illustration
+
+<img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Ilustration.jpg" width="700"/>
+
+---
+
+## 📂 Notebook Access
+
+You can explore, modify, and run the interactive notebook here:  
+👉 [**Open Model_SEM_PLS.ipynb**](https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Model_SEM_PLS.ipynb)
+
+---
+
 ## 📊 Example Visualizations
 
 | Model Structure | Data Distribution | Statistical Evaluation |
@@ -51,4 +64,7 @@ This project addresses that limitation by introducing a **PLS-SEM Simulator** th
 ---
 
 ## 🚀 Future Improvements
-- Expansion to **nonlinear** and **moderation/mediation** path modeling.
+- Expansion to **nonlinear**, **moderation**, and **mediation** path modeling.  
+- Integration with **Streamlit** for interactive model building.  
+- Bootstrapping and **multi-group analysis** for advanced validation.
+
