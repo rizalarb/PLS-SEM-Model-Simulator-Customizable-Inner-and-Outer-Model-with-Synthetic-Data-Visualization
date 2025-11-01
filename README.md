@@ -51,9 +51,15 @@ You can explore, modify, and run the interactive notebook here:
 
 ## 📊 Example Visualizations
 
-| Model Structure | Data Distribution | Statistical Evaluation |
+| Inner Model Diagram | Heatmap Correlation | Structural Model Test |
 |:--:|:--:|:--:|
-| <img src="assets/model_visualization.png" width="260"/> | <img src="assets/data_distribution.png" width="260"/> | <img src="assets/statistical_evaluation.png" width="260"/> |
+| <img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Inner%20Model%20Auto-Diagram.png" width="260"/> | <img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Heatmap.png" width="260"/> | <img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Inner%20Model%20Test.png" width="260"/> |
+
+| Reliability Test | Validity Test |
+|:--:|:--:|
+| <img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Outer%20Model%20Test%20Reabilitas.png" width="260"/> | <img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Outer%20Model%20Test%20Validitas.png" width="260"/> |
+
+
 
 ---
 
