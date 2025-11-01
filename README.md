@@ -51,12 +51,4 @@ This project addresses that limitation by introducing a **PLS-SEM Simulator** th
 ---
 
 ## 🚀 Future Improvements
-- Integration with **Streamlit Dashboard** for interactive model building.  
-- Support for **multi-group analysis** and **bootstrapping validation**.  
 - Expansion to **nonlinear** and **moderation/mediation** path modeling.
-
----
-
-**Author:** Ahmad Rizal Bayhaki  
-**License:** MIT  
-[🔗 View Repository](https://github.com/rizalarb/PLS-SEM-Simulator)
