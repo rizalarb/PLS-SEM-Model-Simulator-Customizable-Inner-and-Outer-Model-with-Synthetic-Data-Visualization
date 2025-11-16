@@ -65,7 +65,7 @@ You can explore, modify, and run the interactive notebook here:
 
 ## 🧩 Tech Stack
 **Languages & Libraries:**  
-`Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Plotly`, `PLSPM`
+`Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Plotly`, `PLSPM`,`Seaborn`, `PlantUML`
 
 ---
 
